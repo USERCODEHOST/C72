@@ -27,3 +27,13 @@ span
 {
     color:rgb(241, 175, 20);
 }
+
+.new
+{
+    margin-bottom:20px;
+}
+
+#contactUs iframe
+{
+    width:100%
+}
